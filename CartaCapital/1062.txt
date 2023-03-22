@@ -1,0 +1,11 @@
+Meta apresenta sua própria IA para competir com o ChatGPT
+A Meta, dona do Facebook, revelou nesta sexta-feira 24 sua própria versão de inteligência artificial e afirmou que pesquisadores teriam acesso a ela, a fim de encontrarem soluções para os potenciais riscos da plataforma.
+
+Chamada de LLaMA, a IA é classificada pela Meta como um modelo “menor e de maior desempenho” projetado para “ajudar os pesquisadores a avançar em seu trabalho”. Essa poderia ser considerada uma crítica velada à decisão da Microsoft de divulgar amplamente a tecnologia enquanto mantém em sigilo o código de programação.
+
+
+Apoiado pela Microsoft, o ChatGPT causou frenesi em todo o mundo por sua capacidade de gerar em segundos textos de grande qualidade, como ensaios e poemas, usando uma tecnologia conhecida como grandes modelos linguísticos (LLM, na sigla em inglês).
+
+Vendo uma ameaça repentina ao domínio do seu mecanismo de busca, a Google se apressou em anunciar que lançará sua própria IA linguística, conhecida como Bard. Mas relatos de trocas perturbadoras com o chatbot Bing, da Microsoft, como ameaças e desejos de roubar código nuclear, viralizaram, fazendo soar o alerta de que a tecnologia não estava pronta.
+
+A Meta indicou que esses problemas poderiam ser bem remediados se os pesquisadores tivessem mais acesso à tecnologia, de alto custo. A OpenAI (criadora do ChatGPT) e a Microsoft limitam o acesso à tecnologia por trás de seus chatbots, o que gera críticas de que preferem os potenciais lucros a aprimorar a plataforma mais rapidamente para a sociedade. “Com o compartilhamento do código LLaMA, outros pesquisadores podem testar mais facilmente novas abordagens para limitar ou eliminar esses problemas”, apontou a Meta.

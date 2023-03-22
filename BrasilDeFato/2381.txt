@@ -1,0 +1,15 @@
+DF: população pode monitorar aplicação de emendas parlamentares dos deputados distritais
+Uma ferramenta desenvolvida pela Câmara Legislativa do Distrito Federal permite o acompanhamento da execução orçamentária e financeira das emendas parlamentares dos deputados distritais. Desenvolvida pela Coordenadoria de Modernização de Informática (CMI) da Casa, a ferramenta pode ser acessada por qualquer cidadão no Portal da Transparência da CLDF e está disponível desde a semana passada.
+A página permite consultar informações detalhadas que estão divididas em seis painéis, que revelam a dotação inicial das despesas, os valores empenhados, liquidados e aqueles efetivamente pagos. A ferramenta também disponibiliza os valores por programa de trabalho ou por função, tal como educação, saúde e segurança pública. É possível ainda ver os dados por subfunção da despesa, incluindo, por exemplo, verificar o quanto foi aplicado em ensino fundamental ou ensino médio ou na assistência hospitalar e ambulatorial, por exemplo.
+Em relação às emendas orçamentárias apresentadas pelos parlamentares, o sistema permite visualizar o andamento das propostas de cada deputado distrital e também detalhar tudo sobre o recurso aplicado, como a área, o projeto executado, o produto gerado e até mesmo qual empresa está recebendo aquele valor.
+"A ferramenta facilita compreender o perfil de cada parlamentar e seu foco de atuação a partir da destinação das emendas, pois qualquer pessoa pode ver e entender os dados instintivamente", explica o coordenador da CMI, Marcelo Herbert.
+
+
+ O painel exibe gráficos que mostram os valores de recursos liberados por projetos ou por parlamentar, além de deixar claro o destino das emendas por unidade orçamentária ou por plano de trabalho. Para 2022, por exemplo, cada um dos 24 distritais poderia destinar o montante de R$ 22,4 milhões. Do valor total, 22,08% já foram efetivamente pagos pelo Governo do Distrito Federal (GDF), o que equivale a R$ 119,1 milhões.
+O Portal da Transparência da CLDF coleta as informações diretamente do Sistema Integrado de Gestão Governamental (Siggo) do GDF, com atualização diária, proporcionando o tratamento dos dados e facilitando a consulta e o entendimento. As instituições da sociedade civil podem usar esses dados para alimentar seus próprios sistemas e acompanhar tudo que diz respeito à respectiva área de atuação, facilitando a participação da comunidade na fiscalização dos recursos públicos. 
+*Com informações da CLDF.
+:: Clique aqui para receber notícias do Brasil de Fato DF no seu Whatsapp ::
+
+Fonte:  BdF Distrito Federal
+
+Edição: Flávia Quirino

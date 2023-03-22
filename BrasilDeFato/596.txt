@@ -1,0 +1,61 @@
+Abuso eleitoral: dados de cidadãos foram usados indevidamente para pedir votos
+Em 24 de setembro de 2022, pouco depois da meia-noite, oito dias antes do primeiro turno das eleições 2022. Augusto de Arruda Botelho, advogado criminalista e candidato a deputado federal por São Paulo pelo PSB faz uma postagem denunciando que cidadãos estavam recebendo via SMS de um número anônimo mensagem de texto de conteúdo pró-bolsonaro: “Vai dar Bolsonaro no primeiro turno! Senão, vamos a rua para protestar! Vamos invadir o congresso e o STF! Presidente Bolsonaro conta com todos nos [sic]”
+Em menos de 10h, a postagem já tinha mais de 120 comentários, 600 repostagens e 5,3 mil curtidas. Entre as mensagens, usuários compartilhavam os prints da SMS, que vinha de um número que normalmente enviava mensagens do Governo do Estado do Paraná.
+O Estado utiliza o Paraná Inteligência Artifical (PIA), um sistema que reúne o atendimento de serviços de diversos órgãos públicos, como Detran, atendimento de solicitação de documento de identidade, serviços de concessionárias de energia elétrica e água, entre outros mais de 350 serviços, como descrito no site oficial do sistema.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+Na ocasião, a Coligação Brasil da Esperança, que representa a chapa do presidente eleito, Luiz Inácio Lula da SIlva, e do vice-presidente, Geraldo Alckmin, protocolou no TSE uma Ação de Investigação Judicial Eleitoral (AIJE) de abuso de poder econômico e abuso dos meios de comunicação social, considerando que os dados deveriam ser usados apenas para o atendimento aos cidadãos.
+A  Companhia de Tecnologia da Informação e Comunicação do Paraná (Celepar), em nota para imprensa, apontou que o serviço era feito pela empresa terceirizada de telecomunicações, Algar Telecom, que por sua vez afirmou que tomaria medidas internas para apurar o caso.
+Segundo matéria do portal Convergência Digital e reportagem do G1, o contrato da Celepar com a Algar Telecom tem valor superior a R$ 4 milhões e prevê pagamento de R$ 0,0412 por SMS. A validade é até agosto de 2024, segundo documento acessado pelos veículos. De acordo com o G1, o Ministério Público Federal (MPF) pediu indenização de R$ 974 milhões a Celepar e a Algar Telecom. Procurados pela reportagem, ambas não quiseram dar novo posicionamento sobre o caso.
+A Lei Geral de Proteção de Dados Pessoais (LGPD) dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade. 
+De acordo com o artigo 26 da lei “O uso compartilhado de dados pessoais pelo Poder Público deve atender a finalidades específicas de execução de políticas públicas e atribuição legal pelos órgãos e pelas entidades públicas, respeitados os princípios de proteção de dados pessoais elencados no art. 6º desta Lei. 1º É vedado ao Poder Público transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso”. O caso está sendo investigado pelo Núcleo de Combate aos Cibercrimes da Polícia Civil (Nuciber/PCPR).
+A advogada e co-diretora do Aqualtune Lab, Clarissa Marques França, explica com base na LGPD que é preciso respeitar o princípio básico da finalidade no tratamento de dados pessoais e, neste caso, todos os que fazem uso dos dados são responsáveis por eles. 
+“Nenhum cidadão que forneceu seus dados gostaria de receber um conteúdo eleitoral sem consentimento. A LGPD incide nesse episódio, não sendo um caso de excludente de responsabilidade, uma vez que os responsáveis precisam ter políticas de segurança, que contenham o vazamento de dados com mecanismos de ação objetivando minimizar a ocorrência de incidentes e danos. Uma excludente de responsabilidade, ocorreria apenas em casos extraordinários, algo completamente imprevisto, o que não é o caso”, enfatiza a advogada.
+Twitter como espaço de denúncias e o posicionamento do TSE
+O caso PIA não é o único compartilhado por usuários no Twitter, na primeira eleição desde a execução plena da LGPD. A rede social reúne outras denúncias de eleitores. Entre janeiro e setembro de 2022, a Associação Data Privacy Brasil de Pesquisa mapeou tweets de usuários sobre o assunto.
+Vale destacar que o Twitter, no período eleitoral no Brasil, foi uma rede social que teve um espaço dedicado ao pleito. Na sua Central de Ajuda brasileira, a rede social se posiciona “O Twitter está dedicado a facilitar que as pessoas encontrem informações precisas na plataforma, participem do debate, entendam melhor o processo eleitoral e mantenham-se informadas”.
+
+
+ Entre os tweets monitorados, é possível destacar um do dia 5 de setembro de 2022, em que um usuário da rede social, cujo nome não será citado, compartilhou que havia recebido uma mensagem no WhatsApp de um candidato a deputado federal, sem o seu consentimento. “Tô me questionando como ele conseguiu o meu número…”. O usuário não especifica qual campanha é responsável.
+Em outro tweet, de 2 de setembro de 2022, “Com todo respeito, mas como um candidato a deputado federal conseguiu meu número (..) Que absurdo é esse?”, denunciou a usuária. Na mesma data, em outro tweet “Um candidato a deputado estadual não para de me mandar mensagem no WhatsApp pedindo voto (...)”, relatou a usuária da rede social.
+Um mês após o fim das eleições, a reportagem buscou o Tribunal Superior Eleitoral para ter estatísticas sobre o número de denúncias do uso indevido de dados pessoais de eleitores durante o pleito de 2022.
+De acordo com o TSE, eles não possuem dados específicos, pois esse tipo de denúncia se encaixa em diversas classes processuais, mas destacou que é possível verificar no portal da Justiça Eleitoral as infrações denunciadas formalmente. 
+Neste ano, as eleições contaram com uma nova versão do aplicativo Pardal da Justiça Eleitoral, voltado para receber denúncias de irregularidades de propaganda eleitoral, e até setembro, véspera de eleição, ele recebeu mais de 16,8 mil denúncias oriundas de todo o Brasil. 
+O TSE destacou que os eleitores do estado do Pernambuco foram os que mais realizaram denúncias, somando mais de 2,2 mil, seguido de São Paulo, 2,2 mil, Minas Gerais, 1,8 mil, Rio Grande do Sul, 1,5 mil, e Rio de Janeiro 1,1 mil.
+Para a advogada Clarissa Marques França, é fundamental debater o tema da proteção de dados, eleições e redes sociais, pois estamos vivenciando um momento em que as plataformas são essenciais para a formação da opinião pública. Ela cita a pesquisa do Instituto Brasileiro de Defesa do Consumidor (Idec), que entre julho e agosto de 2021, entrevistou 1 mil pessoas das classes C, D e E, e demonstrou que a experiência de restrições de conectividade marca o cotidiano dos usuários de internet de baixa renda.
+“O WhatsApp tornou-se o principal mecanismo de informação e formação de opinião de uma parcela significativa da população. Assim, estamos presenciando também a epidemia da desinformação, sem curadoria de conteúdo, sem linha editorial e senso de ética do profissional do jornalismo, que tem técnica e metodologia de trabalho. Assim, pensar na proteção de dados é pensar em democracia e brecar desinformação e fake news”, analisa a profissional.
+Expectativas para as eleições 2024
+A dois anos do próximo pleito eleitoral municipal, a reportagem quis saber da advogada Clarissa Marques França o que esperar sobre a proteção de dados dos cidadãos brasileiros e a execução da LGPD para futuras eleições. Para a profissional, é possível evitar o vazamento e uso indevido de dados. 
+Como ela explica, casos como o da PIA, citado introdutoriamente, acontecem, sobretudo, por falha de segurança, que o poder público precisa evitar de forma ativa e certificar que todos que fornecem tecnologias precisam passar por procedimentos, padrões e treinamentos que garantam a segurança dos dados.
+“É muito mais importante determinar os padrões de segurança e cobrar que eles sejam respeitados, do que uma dificuldade do ponto de vista técnico. Quando a falha acontece é porque os responsáveis estão ignorando os padrões mínimos de  segurança. Quem vende esse tipo de sistema precisa garantir a segurança, e o poder público precisa ter expertise para cobrá-la”, enfatiza.
+Clarissa Marques França conclui que a realidade é que o cidadão comum muitas vezes não tem como negociar o fornecimento de dados, como no caso do Detran, por exemplo. Sendo assim, do ponto de vista do cidadão é muito difícil se proteger. “Em casos como os citados, em uma sociedade democrática, em que o cidadão é vulnerável, às empresas e os órgãos públicos precisam garantir sua proteção. Precisamos agir como sociedade para que sejam respeitados esses direitos”, encerra.
+
+Postagem de Augusto de Arruda Botelho antes do primeiro turno das eleições deste ano / Reprodução
+ 
+* Naiara Evangelo é jornalista e doutora em Comunicação pelo Programa de Pós-Graduação em Comunicação da Uerj (PPGCom/Uerj). Entre os temas de pesquisa estão relações étnico-raciais, tecnologias de comunicação e vigilância de dados. A reportagem é  resultado da bolsa de reportagem em parceria Transparência Internacional – Brasil e Associação Data Privacy Brasil de Pesquisa
+
+ 
+Edição: Rodrigo Durão Coelho

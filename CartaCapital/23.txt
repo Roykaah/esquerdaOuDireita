@@ -1,0 +1,19 @@
+GSI, órgão da Presidência, prepara política de defesa cibernética
+O risco de sofrer um ataque um ataque cibernético é hoje uma das maiores ameaças, se não a maior, ao Brasil, na avaliação do Gabinete de Segurança Institucional, órgão da Presidência. É por isso que o chamado GSI elabora uma Política Nacional de Defesa Cibernética, embrião de uma futura Agência Nacional de Segurança Cibernética como a existente nos Estados Unidos.
+
+Essa “política nacional” definiria os objetivos de segurança cibernética do País e, posteriormente, haveria uma “estratégia nacional” que estabeleceria “como” os objetivos seriam alcançados (ou seja, quais seriam os instrumentos e os atores envolvidos).
+
+
+O plano já foi levado ao conhecimento do presidente Luiz Inácio Lula da Silva pelo ministro-chefe do GSI, Marco Edson Gonçalves Dias. E recebeu o sinal verde presidencial para ser submetido a outras áreas do governo, para que elas opinem e deem sugestões. Caso vingue como iniciativa governamental, essa política nacional seria proposta como lei, a ser aprovada no Congresso.
+
+“Imagine se para uma turbina (da hidrelétrica) de Itaipu? Ou se para o linhão norte-sul (que integra geradores de energia do Norte e Nordeste com consumidores do centro-sul)? Ou se o sistema bancário for atacado? Qual não seria o prejuízo para a economia? Ou se o sistema do Bolsa Família fosse atacado para inserir ou excluir 10 milhões de pessoas, qual não seria o prejuízo para o governo? Hoje existem países com capacidade de fazer esse tipo de ataque”, diz Gonçalves Dias.
+
+A ideia de uma Agência Nacional de Segurança Cibernética foi levantada pelo Exército em 2013, no embalo das revelações de que a então presidente Dilma Rousseff e a Petrobras haviam sido espionadas pela NSA, a agência americana de bisbilhotagem. Foi defendida na época pelo general então à frente do Comando de Defesa Cibernética do Exército, José Carlos dos Santos.
+
+Gonçalves Dias também é general. Mas não acredita que uma eventual agência tenha necessariamente de ficar sob a guarda de alguma área das Forças Armadas ou mesmo do GSI. Poderia estar em outra estrutura do governo. Nos EUA, diz ele, há um modelo híbrido, com civis e militares na Agência de Segurança Cibernética e Infraestrutura (Cisa, na sigla em inglês).
+
+O Brasil, prossegue o ministro, carece de 500 mil pessoas especializadas em tecnologia da informação, uma vulnerabilidade grande. Um setor particularmente exposto é o bancário. Gonçalves Dias conversou com representantes da Febraban, a federação dos bancos, sobre a ideia de uma política de defesa cibernética. O apoio deles pode ser útil na aprovação de uma futura lei.
+
+Várias pesquisas diferentes colocam o Brasil como um dos países onde há mais ataque hacker. Um dos principais ataques ocorridos por aqui no ano passado se deu justamente contra um banco, o BRB, controlado pelo governo do Distrito Federal. Os invasores conseguiram “sequestrar” certos dados da clientela e queriam 5 milhões de reais para não divulgá-los.
+
+A proliferação desse tipo de crime levou a Polícia Federal a criar, no início do governo Lula, uma Diretoria de Combate a Crimes Cibernéticos.

@@ -1,0 +1,12 @@
+Suprema Corte americana examina caso que pode mudar lei sobre internet nos EUA
+A Suprema Corte americana examina, nesta terça-feira (21), os argumentos dos advogados no caso Gonzalez contra Google. A ação pode mudar os fundamentos da lei que rege a internet nos Estados Unidos, fazendo com que as empresas de tecnologia sejam legalmente responsáveis por conteúdo prejudicial que seus algoritmos promovem.
+
+O caso decorre do assassinato da jovem Nohemi Gonzalez, de 23 anos, uma estudante americana morta em Paris durante os ataques terroristas de 13 de novembro de 2015. A família de Gonzalez afirma que o Youtube – que pertence ao Google –, por meio de seu algoritmo de recomendação, agiu como uma plataforma de recrutamento para o grupo Estado Islâmico, violando as leis dos EUA contra a cumplicidade com organizações terroristas. Por esse motivo, os advogados de acusação entendem que a Google deve ser considerada responsável.
+
+
+Mas, de acordo com a Google, é impossível fazer a ligação entre um fenômeno de radicalização, mesmo que confirmado, e a morte de Nohemie Gonzalez. A empresa se remete a uma lei, conhecida como Seção 230, que precisa que nenhum fornecedor ou usuário de um serviço automático não deve ser considerado como editor e, portando, não é responsável por este serviço.
+
+Dessa maneira, a regra protege as empresas de tecnologia da responsabilidade legal pelos vídeos de terceiros que seus algoritmos de recomendação apresentam. A Google alega que essa imunidade seria essencial para a capacidade das empresas de tecnologia de fornecer conteúdo útil e seguro a seus usuários.
+
+Mas os advogados da família Gonzalez afirmam que a aplicação da Seção 230 às recomendações algorítmicas incentiva a promoção de conteúdo prejudicial e nega às vítimas uma maneira de buscar reparação, mesmo que mostrem que essas recomendações causem danos ou morte.
+Regra obsoleta

@@ -1,0 +1,37 @@
+Como identificar perfis falsos ou influenciadores com seguidores robôs nas redes
+A batalha por seguidores nas redes sociais se tornou uma das maiores moedas de troca de influenciadores digitais. Quanto mais fãs, curtidas e comentários, mais fama e dinheiro. Na busca do Google, a simples pergunta: "como ganhar seguidores?" mostra mais de 17 milhões de resultados, muitos deles sobre como burlar a conquista "orgânica" de seguidores para alcançar o objetivo pagando por fãs.
+Em entrevista ao Brasil de Fato, a coordenadora de Mídia e Democracia do Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS -Rio), Karina Santos, comentou os desafios da democracia na cultura digital e deu algumas dicas de ferramentas para que usuários de internet não sejam alvos de informações falsas proliferadas por perfis "fakes".
+Leia também: Cinco dicas para não cair em fake news sobre as eleições de 2022 
+Segundo a pesquisadora, mais importante que descobrir um ou outro perfil falso, fraudulento ou anônimo, o foco deve ser em uma legislação que investigue e invista contra os financiadores de cadeias de desinformação. "Defendemos que deve existir uma regulação ao estilo 'follow the money' (siga quem financia ou o dinheiro), pois aí está de fato a questão que pode desenredar o problema da desinformação", avalia.
+Confira a entrevista completa:
+Brasil de Fato: Como usuários da internet podem se precaver e evitar proliferar informações falsas?
+Karina Santos: É importante ter sempre atenção ao consumir informações na internet, seja nas redes sociais ou em aplicativos de mensagem. O primeiro passo é sempre verificar a informação recebida antes de compartilhar com outras pessoas.
+
+Muitas pessoas estão habituadas a ler apenas o título ou repassar um vídeo sem ter certeza se a informação procede, o que pode levar a uma grande onda desinformativa.
+
+Para evitar isso, o usuário deve sempre checar a fonte da informação recebida e conferir se esta informação também foi divulgada por outros veículos. Basta digitar as principais palavras em um mecanismo de busca, como o Google, que as informações mais relevantes sobre aquele assunto aparecerão no topo da página. Nesta etapa já será possível encontrar publicações de agências de checagem de fatos que estão a todo momento verificando conteúdos falsos que circulam nas redes.
+Existe algum modo de checar se um perfil que tem grande poder de influência nas redes usa seguidores falsos?
+Detectar um perfil automatizado ainda não é uma tarefa simples, não existe uma receita de bolo 100% garantida. O que temos são elementos que nos ajudam a entender como funciona o comportamento automatizado nas redes sociais, mas requer uma avaliação cuidadosa de diferentes aspectos.
+A boa notícia é que hoje já existem ferramentas que fazem essa análise automática, como por exemplo o Pegabot. O Pegabot é uma ferramenta desenvolvida pelo ITS que usa diversas métricas para analisar o quanto um usuário se parece com um robô e indica a probabilidade daquele perfil ser automatizado.
+Entre alguns elementos dessa análise estão características da conta, comportamento de publicações do perfil, linguagem utilizada nestas publicações e até os seguidores deste usuário.
+
+
+ Qual é o grau de avanço da legislação brasileira sobre esses perfis falsos e a proliferação de informações falsas e o quanto ainda falta avançar nesse sentido?
+A grande questão talvez não seja a legislação sobre perfis falsos ou verdadeiros, mas se temos uma regulação que cobre as campanhas de desinformação. E nesse sentido há muito o que avançar. Temos que focar em uma legislação que desvele essas cadeias porque elas têm um impacto muito maior do que um ou outro perfil falso, fraudulento ou anônimo.
+Nesse sentido, estamos defendendo que deve existir uma regulação ao estilo “follow the money” (siga quem financia ou o dinheiro), pois aí está de fato a questão que pode desenredar o problema da desinformação.
+Há dados sobre o fluxo de informações falsas e danos causados pelas mesmas no contexto brasileiro? Há aumento das "fake news" em ano eleitoral? Como lidar com a enxurrada de informações?
+Em contextos eleitorais, a disseminação de informações falsas é capaz de afetar a credibilidade do processo eleitoral e a capacidade dos eleitores de exercerem o seu direito de voto de forma consciente e informada. Em 2018, por exemplo, informações nas redes sociais foram decisivas para uma parte do eleitorado brasileiro escolher em quem votar.
+A pesquisa do Instituto DataSenado, por exemplo, aponta que cerca de 45% dos entrevistados decidiram seu voto considerando o que viram em alguma rede.
+
+Por isso, em período eleitoral é preciso ter atenção redobrada com as informações que circulam em redes sociais e aplicativos de mensagens. 
+
+Existe uma indústria de desinformação muito bem estruturada hoje no país, que tem um alto potencial de dano na nossa democracia. Então, na dúvida, desconfie sempre. Busque diversificar o consumo de informações, verifique sempre a origem da informação compartilhada e cheque se este "notícia" já foi publicada por outras fontes. Acompanhe também os canais oficiais, seja do TSE ou até mesmo de candidatos. 
+De que modo as pessoas podem usufruir de forma positiva das tecnologias digitais e das redes sociais?
+A comunicação é a estrutura fundamental para a democracia. Nesse sentido, as tecnologias digitais democratizaram em muito o acesso à informação. Hoje, por meio das redes sociais temos muito mais vozes participando do debate público do que antes.
+Contudo, vale pontuar que a universalização do acesso e a oferta da conexão ainda não são questões superadas totalmente. Ainda temos uma parte significativa da sociedade brasileira desconectada e com seu direito de acesso à informação limitado.
+As tecnologias melhoram o acesso à informação, mas elas por si só não garantem um debate público qualificado, pois não interferem na motivação das pessoas por buscar informações de qualidade.
+Então, é preciso aprofundar a consciência na sociedade como um todo sobre os caminhos para um consumo crítico da informação, principalmente em períodos eleitorais, em que o consumo da informação política está intrinsecamente ligado ao voto.
+
+Fonte:  BdF Rio de Janeiro
+
+Edição: Mariana Pitasse

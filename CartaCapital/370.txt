@@ -1,0 +1,15 @@
+No governo Bolsonaro, Abin usou programa para monitorar pessoas por meio do celular
+A Agência Brasileira de Inteligência (Abin) operou um sistema secreto que monitorou a localização de cidadãos em todo o País, durante os três primeiros anos do governo Jair Bolsonaro (PL). As informações, divulgadas nesta terça-feira 14, são do jornal O Globo e indicam que o instrumento utilizado permitia monitorar passos de até 10 mil proprietários de celulares a cada 12 meses.
+
+A ferramenta é conhecida como “FirstMile” e, para funcionar, era necessário apenas que se digitasse o número do contato telefônico. A partir disso, o acompanhamento era feito através de um mapa. 
+
+
+Segundo o jornal, que teve acesso a documentos e relatos de servidores, a prática foi questionada por agentes da própria Abin, uma vez que a agência não possui autorização legal para acessar livremente dados privados da população do país.
+
+Desenvolvida pela empresa israelense Cognyte (antigamente, conhecida como Verint), a tecnologia permitia o rastreamento quando dados do celular eram transferidos para torres de comunicação. O sistema chega a permitir que se crie um “alerta em tempo real” de movimentações de alguma pessoa específica em local determinado.
+
+De acordo com a publicação, a ferramenta era utilizada sem justificativa oficial, embora, segundo relatos, a alegação era de que o acesso a metadados do celular não estava expressamente proibido em lei e que a agência, ao operar, afirmava que se tratava de casos de “segurança de Estado”. 
+
+A lei que instituiu a Abin e estabeleceu os limites e alcances da sua finalidade é a 9.883/99. Nela, não há previsão de que a agência possa monitorar celular e/ou exercer vigilância de geolocalização. Na esfera privada, as condutas dos indivíduos levam em consideração não apenas aquilo que a lei permite, mas aquilo que ela não proíbe.  No âmbito público, por outro lado, os agentes só podem exercer atividades que estão previstas em lei, de modo expresso.
+
+A Abin afirmou que o caso possui sigilo contratual e que está impedida de comentar. O mesmo argumento foi utilizado pela empresa que desenvolveu o programa e pelo seu representante no Brasil, Caio Cruz, filho do general Santos Cruz, ex-ministro do governo Bolsonaro.

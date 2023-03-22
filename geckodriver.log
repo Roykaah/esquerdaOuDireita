@@ -1,0 +1,1459 @@
+1679419958014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile6HftpA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679419959301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679419959310	Marionette	INFO	Listening on port 55121
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679419961438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile6HftpA\\search.json.mozlz4", (void 0)))
+1679420238910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile1tDIuw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679420239527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679420239533	Marionette	INFO	Listening on port 56043
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679420240831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile1tDIuw\\search.json.mozlz4", (void 0)))
+1679420345852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilelxAoya"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679420346553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679420346560	Marionette	INFO	Listening on port 56464
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679420347572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilelxAoya\\search.json.mozlz4", (void 0)))
+1679420402561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilelnG8DI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679420403210	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679420403217	Marionette	INFO	Listening on port 56720
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679420403713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilelnG8DI\\search.json.mozlz4", (void 0)))
+1679420522521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile2ycaWD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679420523128	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679420523134	Marionette	INFO	Listening on port 57151
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679420523936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile2ycaWD\\search.json.mozlz4", (void 0)))
+1679420666166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilexWTPVo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679420667555	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679420667564	Marionette	INFO	Listening on port 57981
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679420668971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilexWTPVo\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.brasildefato.com.br."
+1679420773329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileeQQtd1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679420774122	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679420774128	Marionette	INFO	Listening on port 58568
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679420774676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileeQQtd1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 541 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679421243074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileSyb6Sg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421243911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421243919	Marionette	INFO	Listening on port 60333
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679421244399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileSyb6Sg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 5805 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679421270935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilee1IzUM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421271579	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421271586	Marionette	INFO	Listening on port 60522
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679421272048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilee1IzUM\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 3517 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679421318672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofiley0MWbg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421319346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421319352	Marionette	INFO	Listening on port 60814
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679421319983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofiley0MWbg\\search.json.mozlz4", (void 0)))
+1679421339199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilebxYNjV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421339983	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421339991	Marionette	INFO	Listening on port 60965
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679421340879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilebxYNjV\\search.json.mozlz4", (void 0)))
+1679421359988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilen127s9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421360799	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421360805	Marionette	INFO	Listening on port 61125
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679421361656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilen127s9\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 4938 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 31572, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1679421434959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileswHNrf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421436055	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421436065	Marionette	INFO	Listening on port 61487
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679421437155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileswHNrf\\search.json.mozlz4", (void 0)))
+1679421501435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilef2RcLK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421502250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421502255	Marionette	INFO	Listening on port 61809
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679421502736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilef2RcLK\\search.json.mozlz4", (void 0)))
+1679422290719	Marionette	INFO	Stopped listening on port 61809
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilekNP9WZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421523213	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421523219	Marionette	INFO	Listening on port 61954
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679421523649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilekNP9WZ\\search.json.mozlz4", (void 0)))
+1679422291458	Marionette	INFO	Stopped listening on port 61954
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile1WymBz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421650597	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421650610	Marionette	INFO	Listening on port 62509
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679421652625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile1WymBz\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 4740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679422292403	Marionette	INFO	Stopped listening on port 62509
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilecuP1NA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679421790264	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679421790271	Marionette	INFO	Listening on port 63067
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679421791313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilecuP1NA\\search.json.mozlz4", (void 0)))
+1679422293199	Marionette	INFO	Stopped listening on port 63067
+Dynamically enable window occlusion 1
+1679422400549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileWcU9Gz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679422401188	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679422401194	Marionette	INFO	Listening on port 65061
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679422401664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileWcU9Gz\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 2337 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679423204246	Marionette	INFO	Stopped listening on port 65061
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileIy53sk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679422930337	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679422930343	Marionette	INFO	Listening on port 50374
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679422932297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileIy53sk\\search.json.mozlz4", (void 0)))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1679423203961	Marionette	INFO	Stopped listening on port 50374
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile23BTFk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679423001152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679423001158	Marionette	INFO	Listening on port 50688
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679423002664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile23BTFk\\search.json.mozlz4", (void 0)))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+1679423204260	Marionette	INFO	Stopped listening on port 50688
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileQ4Xd3n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679423022532	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679423022538	Marionette	INFO	Listening on port 50842
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679423023831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileQ4Xd3n\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 6363 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679423204075	Marionette	INFO	Stopped listening on port 50842
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilebkiPmq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679423060757	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679423060767	Marionette	INFO	Listening on port 51063
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679423061883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilebkiPmq\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 3890 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679423204256	Marionette	INFO	Stopped listening on port 51063
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileFDLGyx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679423088789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679423088796	Marionette	INFO	Listening on port 51265
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679423089757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileFDLGyx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 510 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679423204245	Marionette	INFO	Stopped listening on port 51265
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile6ieLmf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679423106237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679423106244	Marionette	INFO	Listening on port 51411
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679423106998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofile6ieLmf\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.google.com/js/th/O-AKP-tSDh3fyUooxhKH3SjZl1z40CGI4bY0NG2JmmE.js line 2 > eval line 5110 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679423204214	Marionette	INFO	Stopped listening on port 51411
+Dynamically enable window occlusion 1
+1679503476457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileGaqA2N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679503477911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679503477917	Marionette	INFO	Listening on port 49326
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679503479640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileGaqA2N\\search.json.mozlz4", (void 0)))
+1679503888965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileJHrkgg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679503889692	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679503889699	Marionette	INFO	Listening on port 50728
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679503890629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileJHrkgg\\search.json.mozlz4", (void 0)))
+1679504330955	Marionette	INFO	Stopped listening on port 50728
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileTVqnM8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679503988184	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679503988193	Marionette	INFO	Listening on port 51142
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679503989170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileTVqnM8\\search.json.mozlz4", (void 0)))
+1679504331694	Marionette	INFO	Stopped listening on port 51142
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileLttgl3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679504085155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679504085160	Marionette	INFO	Listening on port 51531
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679504085985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileLttgl3\\search.json.mozlz4", (void 0)))
+1679504332513	Marionette	INFO	Stopped listening on port 51531
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilek135q6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679504108189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679504108201	Marionette	INFO	Listening on port 51685
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679504108796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilek135q6\\search.json.mozlz4", (void 0)))
+1679504333559	Marionette	INFO	Stopped listening on port 51685
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileddxKB0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679504132116	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679504132123	Marionette	INFO	Listening on port 51843
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679504132605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileddxKB0\\search.json.mozlz4", (void 0)))
+1679504334442	Marionette	INFO	Stopped listening on port 51843
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileaVBdpt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679504156753	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679504156760	Marionette	INFO	Listening on port 52003
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679504157475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileaVBdpt\\search.json.mozlz4", (void 0)))
+[Parent 24428, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1679504335517	Marionette	INFO	Stopped listening on port 52003
+Dynamically enable window occlusion 1
+" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileuQvJyI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679504327380	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679504327387	Marionette	INFO	Listening on port 52618
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679504327975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileuQvJyI\\search.json.mozlz4", (void 0)))
+[Parent 33972, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Royka\AppData\Local\Temp\rust_mozprofileuQvJyI\thumbnails) because it does not exist
+ozprofileueJ7en"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679504532102	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679504532109	Marionette	INFO	Listening on port 53395
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679504532629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileueJ7en\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Royka\AppData\Local\Temp\rust_mozprofileueJ7en\thumbnails) because it does not exist
+ozprofilejW0W8a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679504654374	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679504654381	Marionette	INFO	Listening on port 53911
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679504655286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilejW0W8a\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Royka\AppData\Local\Temp\rust_mozprofilejW0W8a\thumbnails) because it does not exist
+JavaScript error: , line 0: uncaught exception: out of memory
+erence override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679505919248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679505919255	Marionette	INFO	Listening on port 58571
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1679505920121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileMkfELl\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/11/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1868 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1300
+#01: JOG_RegisterPing[C:\Program Files\Mozilla Firefox\xul.dll +0x48116da]
+#02: JOG_RegisterPing[C:\Program Files\Mozilla Firefox\xul.dll +0x48140a2]
+#03: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1d9178c]
+#04: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1da7f3c]
+#05: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1d77f6b]
+#06: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x13fa8a1]
+#07: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x4cec6]
+#08: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1cdbabd]
+#09: ??? (???:???)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679508177458	Marionette	INFO	Stopped listening on port 58571
+Dynamically enable window occlusion 1
+e 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1300
+#01: JOG_RegisterPing[C:\Program Files\Mozilla Firefox\xul.dll +0x48116da]
+#02: JOG_RegisterPing[C:\Program Files\Mozilla Firefox\xul.dll +0x48140a2]
+#03: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1da57c5]
+#04: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1d782a8]
+#05: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x13fa8a1]
+#06: XRE_GetBootstrap[C:\Program Files\Mozilla Firefox\xul.dll +0x4cec6]
+#07: GIFFT_TimingDistributionCancel[C:\Program Files\Mozilla Firefox\xul.dll +0x1cdbabd]
+#08: ??? (???:???)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679508259451	Marionette	INFO	Stopped listening on port 59356
+Dynamically enable window occlusion 1
+0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Royka\AppData\Local\Temp\rust_mozprofile2mPpgj\thumbnails) because it does not exist
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5396 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2177,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2177","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1083"]}] Barrier: quit-application-granted
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2189: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679512193473	Marionette	INFO	Stopped listening on port 59641
+Dynamically enable window occlusion 1
+: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512180642	Marionette	INFO	Stopped listening on port 59964
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512168738	Marionette	INFO	Stopped listening on port 60212
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.google.com/js/th/JKI-Neg5ZU5KK1Xo01VWGlJ1rRlPViDIC-PSh86zliQ.js line 2 > eval line 5802 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+esource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 662 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3048 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attemptingJavaScript error: , lJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512176989	Marionette	INFO	Stopped listening on port 59755
+Dynamically enable window occlusion 1
+or: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512174451	Marionette	INFO	Stopped listening on port 60397
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+rce.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4491 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 13728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512180289	Marionette	INFO	Stopped listening on port 60676
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+avaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2143 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512174901	Marionette	INFO	Stopped listening on port 61049
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512179404	Marionette	INFO	Stopped listening on port 61478
+Dynamically enable window occlusion 1
+workError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512172745	Marionette	INFO	Stopped listening on port 62049
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+kError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6925 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndicatioJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679512175338	Marionette	INFO	Stopped list1679512175598	MarioneDynamically enable window occlusion 1
+JavDynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+t, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6136 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/24/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/25/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/26/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6493 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/27/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/28/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6776 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/29/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 909 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/30/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4855 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/31/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6097 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/32/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5926 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/33/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7569 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/34/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/35/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/36/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?055026&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/37/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1150 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/38/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6963 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/39/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4274 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/40/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/41/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/42/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1982 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/43/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2374 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/44/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2885 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/45/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/46/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2620 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/47/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4008 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/48/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/49/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4440 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/50/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/51/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3326 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679507644045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofilecquNha"
+console.warn: services.settings: Ignoring preference override of remote settings servJavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/53/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2136 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/54/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1901 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/55/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7269 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/56/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6087 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/57/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/58/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/59/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/60/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 979 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/61/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/62/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3220 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/63/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5235 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/64/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/65/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6248 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/66/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_reJavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4219 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/network-observer/NetworkObserver.sys.mjs :: #onResponseHeader :: line 1043"  data: no]
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:558:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/network-observer/NetworkObserver.sys.mjs :: #onResponseHeader :: line 1043"  data: no]
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:558:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/network-observer/NetworkObserver.sys.mjs :: #onResponseHeader :: line 1043"  data: no]
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:558:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/network-observer/NetworkObserver.sys.mjs :: #onResponseHeader :: line 1043"  data: no]
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:558:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/network-observer/NetworkObserver.sys.mjs :: #onResponseHeader :: line 1043"  data: no]
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:558:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 0
+console.error: ({})
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352845/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352845/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal19327352845/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+ed in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/77/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5618 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/78/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 910 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undeficonsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/82/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2554 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/83/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5464 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/84/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/85/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/86/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5079 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/87/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1536 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/88/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/89/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/90/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/91/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/92/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 281 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/93/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1097 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/94/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1890 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/95/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7268 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/96/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7424 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/97/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/98/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6441 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/99/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/100/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/101/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 940 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/102/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5584 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/103/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/104/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/105/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3411 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/106/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/107/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6382 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/108/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3768 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/109/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 632 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/110/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7451 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/111/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3269 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/112/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+out of memory: 0x0000000000000000 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679508558390	MarioneJavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6898 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 35140, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5694 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5391 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6519 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6119 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4417 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7555 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6836 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6012 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2995 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2815 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4757 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4700 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6826 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3248 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2057 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1291 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 708 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5436 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679509750751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileQcqcL3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679509752397	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679509752424	Marionette	INFO	Listening on port 63709
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679509755421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileQcqcL3\\search.json.mozlz4", (void 0)))
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1300
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1679510572284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileRNktyQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679510573389	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679510573398	Marionette	INFO	Listening on port 50278
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1679510575300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Royka\\AppData\\Local\\Temp\\rust_mozprofileRNktyQ\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/113/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/114/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3653 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/115/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4985 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/116/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/117/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/118/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4734 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/119/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2105 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/120/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2390 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/121/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/122/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4837 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/123/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4961 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/124/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6331 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/125/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6429 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/126/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3769 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/127/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6500 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/128/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 377 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/129/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/130/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/131/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 961 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/132/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 150 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/133/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6250 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/134/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/135/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1834 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/136/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/137/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/138/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/139/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1210 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/140/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7629 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/141/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/142/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/143/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/144/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5682 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/145/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/146/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1963 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/147/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 654 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/148/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 313 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/149/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/150/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/151/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3319 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/152/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/153/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5551 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/154/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/155/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1867 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/156/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2303 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/157/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2532 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/158/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/159/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/160/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3690 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/161/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/162/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/163/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3132 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/164/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/165/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3005 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/166/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/167/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/168/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6467 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/169/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5993 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/170/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/171/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3850 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/172/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/173/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/174/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 144 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/175/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3440 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?065818&ver=4.9.8, line 1: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/176/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/177/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/178/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/179/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5471 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/180/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 877 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/181/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2721 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/182/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2687 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/183/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/184/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 102 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/185/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2495 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/186/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1671 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070050&ver=4.9.8, line 1: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/187/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2395 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070104&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/188/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070119&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/189/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2137 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070138&ver=4.9.8, line 1: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/190/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/191/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 585 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070227&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/192/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/193/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070259&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/194/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3990 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070314&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/195/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070331&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/196/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 668 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070347&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/197/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4909 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070401&ver=4.9.8, line 1: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/198/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4966 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/199/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/200/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4054 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070445&ver=4.9.8, line 1: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/201/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6117 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070505&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/202/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/203/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/204/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7150 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/sso.js?070552&ver=4.9.8, line 2: ReferenceError: moment is not defined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/205/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.cartacapital.com.br/wp-content/themes/readanddigest-child/inc/js/validation-ptBR.js, line 1: TypeError: $.validator is undefined
+JavaScript error: https://www.cartacapital.com.br/mais-recentes/page/206/ line 1 > injectedScript, line 2: TypeError: divContent[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

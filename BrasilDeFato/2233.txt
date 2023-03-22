@@ -1,0 +1,41 @@
+TCU dá aval a acordo do Exército com empresa israelense: entenda possível ameaça às eleições
+O Tribunal de Contas da União deu aval a um acordo de cooperação entre o Comando de Defesa Cibernética do Exército e a empresa de cibersegurança israelense CySource. O contrato havia sido considerado pelo Ministério Público Federal (MPF) como uma estratégia para ameaçar o processo eleitoral e tentou barrá-lo.
+Mas em decisão publicada no último dia 27, a Primeira Câmara do TCU decidiu, por unanimidade, considerar o processo do MPF improcedente, encerrar o caso e arquivar os autos. A íntegra do acórdão está disponível na consulta processual eletrônica da Corte. Clique aqui para fazer o download.
+O sub-procurador geral Lucas Rocha Furtado, do MPF, apesar de ter ingressado com a ação junto à Corte de Contas, não atuou no julgamento, o que abriu caminho para o arquivamento. A reportagem questionou o gabinete de Furtado sobre o tema, mas não houve resposta.
+:: General que questiona eleições contratou empresa israelense de ex-chefe de TI de Bolsonaro ::
+O caso, revelado com exclusividade pelo Brasil de Fato em maio deste ano, foi apreciado pela Corte após o subprocurador-geral do MPF Lucas Rocha Furtado apontar que o acordo tem indícios de desvio de finalidade e que pode colocar em risco as eleições de outubro.
+Entenda possível ameaça ao processo eleitoral
+Na petição que deu origem ao processo, o MPF argumenta que o general Héber Garcia Portella, comandante de Defesa Cibernética do Exército (ComDCiber), já tinha sido nomeado para integrar a Comissão de Transparência das Eleições (CTE) quando assinou o contrato com a empresa israelense.
+“No meu entender, é inadmissível que a estrutura do Exército Brasileiro seja usada para atender a um capricho de Jair Bolsonaro, que, de forma insistente, tem questionado a segurança das urnas eletrônicas e dos procedimentos de apuração eleitoral adotados pelo Tribunal Superior Eleitoral”, argumenta.
+Furtado aponta que Portella frequentemente “tem reforçado o discurso de Jair Bolsonaro no sentido de que o sistema de votação brasileiro contém riscos e fragilidades que podem vir a comprometer a lisura das eleições”.
+Por isso, segundo ele, o acordo teria sido celebrado “não com vistas à satisfação de uma finalidade pública, mas, sim, em flagrante desvio de finalidade, com vistas a investigar os supostos riscos e fragilidades do sistema de votação brasileiro”.
+:: "Ninguém avisou que daria m...?", diz Paulo Teixeira sobre acordo do Exército com CySource ::
+Nos últimos dias, bolsonaristas têm usado o acordo entre Exército e CySource para argumentar que os militares têm capacidade técnica para questionar o processo eleitoral brasileiro. Uma das publicações feitas por um apoiador do presidente chegou a viralizar no Twitter.
+
+Na ação, o MPF cita também a revelação da reportagem do BdF de que, no quadro de executivos da CySource, está o analista de sistemas Hélio Cabral Sant'ana, ex-diretor de Tecnologia da Informação da Secretaria-Geral da Presidência da República no governo do presidente Jair Bolsonaro (PL).
+Porta-voz da CySource no acordo com o Exército, Sant'Ana também tem ligação próxima com o filho do presidente, o deputado federal Eduardo Bolsonaro (PL-SP). O analista de sistemas é dono do domínio do site do Instituto Conservador Liberal (ICL), presidido por Eduardo Bolsonaro.
+Fundado pelo filho do chefe do Executivo, o ICL tem como uma de suas principais realizações a organização de um encontro que reúne líderes da extrema direita global. Inspirada em um evento que ocorre nos EUA desde os anos 70, o CPAC já teve três edições em sua versão brasileira.
+Clique aqui para acessar as informações do site do ICL na plataforma WhoIs, que armazena as informações sobre quem são os proprietários de domínios na internet. Abaixo, leia os dados do Cadastro Nacional de Pessoa Jurídica (CNPJ) do ICL. Para fazer a consulta, clique aqui.
+
+
+
+ Empresa israelense tem militares e bolsonarista
+Além de ter chefiado as políticas de tecnologia da informação na Presidência da República durante o governo Bolsonaro, Hélio Cabral Sant'ana foi primeiro-tenente do Exército, de janeiro de 2009 a março de 2013.
+Para sair do Executivo e assumir o cargo na CySource, ele teve autorização da Comissão de Ética Pública da Presidência. O ex-diretor de TI da Presidência não é o único representante da empresa com passagem pelas Forças Armadas. Assim como ele, o diretor global de vendas da CySource, Luiz Katzap, foi tenente do Exército de fevereiro de 2008 a agosto de 2016.
+A CySource foi fundada por veteranos das forças de defesa militar de Israel. Após anos atuando com segurança cibernética para organizações militares, a empresa afirma contar com "a melhor plataforma de educação e treinamento em segurança cibernética baseada em Inteligência Artificial do mundo".
+O diretor executivo da CySource, Amir Bar-El, assim como os outros fundadores da empresa, tem experiência no setor de defesa israelense. Ele atuou nas unidades de inteligência do Mossad, serviço secreto de Israel. Depois, fez carreira na iniciativa privada.
+“Ao longo dos últimos anos estabelecemos academias de segurança cibernética para diversas organizações militares e unidades de segurança em todo o mundo, o que nos permitiu consolidar conhecimento estratégico na defesa cibernética”, afirmou Bar-EI no comunicado da parceria com o Exército Brasileiro.
+Outro lado: Exército Brasileiro nega suspeitas do MPF
+Em nota, o Exército Brasileiro negou que a contratação da empresa israelense CySource pelo Comando de Defesa Cibernética esteja relacionado às eleições de outubro.
+Leia a íntegra da nota do Exército sobre o caso
+O Centro de Comunicação Social do Exército informa que a Escola Nacional de Defesa Cibernética (ENaDCiber) é o Estabelecimento de Ensino subordinado ao Comando de Defesa Cibernética (ComDCiber) responsável pela qualificação de recursos humanos para o Setor Cibernético.
+As capacitações proporcionadas pela ENaDCiber são obtidas mediante cursos, estágios e treinamentos conduzidos pela própria Escola ou mediante parcerias e convênios firmados com a rede de ensino nacional e internacional.
+Nesse contexto, foi celebrado acordo de cooperação técnica entre a União, representada pelo Comando do Exército, por intermédio do Departamento de Ciência e Tecnologia, por meio do Comando de Defesa Cibernética, e a empresa CySource LTDA, para fins de capacitação continuada na área de Segurança Cibernética, conforme divulgado na página 31 da Seção 3 do Diário Oficial da União de 28 de abril de 2022.
+Cabe ressaltar que o acordo foi firmado sem custos para a União e não possui nenhuma relação com eventos externos, como as eleições.
+Outro lado: CySource diz que Brasil tem necessidades emergentes
+Em nota enviada à reportagem, o CEO da Cysource, Amir Bar-EI, também negou que o acordo esteja relacionado possíveis ataques ao processo eleitoral.
+Leia a íntegra da nota da CySource sobre o caso
+A CySource é líder israelense em treinamentos em cibersegurança e serviços profissionais. Nossos especialistas em segurança treinaram milhares de estudantes e trabalhadores, provendo globalmente segurança à organizações contra ataques cibernéticos. Nós identificamos o Brasil como um mercado estratégico para investimento devido às necessidades emergentes com relação à cibersegurança.
+A CySource trabalha para apoiar empresas na criação de uma força de trabalho em cibersegurança de excelência e espera criar milhares de empregos para os trabalhadores no Brasil. Como parte dessa estratégia, nós contactamos diversas organizações no país para apresentar nossas capacidades.
+A CySource assinou um acordo de cooperação de treinamento sem qualquer custo com a Escola Nacional de Defesa Cibernética (ENaDCiber), com foco na capacitação profissional de pessoal militar, não havendo relação com quaisquer eventos externos, como as eleições. A empresa é uma dentre as diversas organizações de treinamentos trabalhando com a ENaDCiber. A CySource continuará trabalhando para uma comunidade segura por meio da confiança em parcerias estratégicas e colaborações.
+Edição: Rodrigo Durão Coelho
