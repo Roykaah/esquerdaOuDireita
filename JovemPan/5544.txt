@@ -1,0 +1,41 @@
+TSE promove nova etapa de testes para garantir segurança das urnas eletrônicas em 2022
+GABRIELA BILó/ESTADÃO CONTEÚDO
+
+
+
+Luís Roberto Barroso, presidente do Tribunal Superior Eleitoral (TSE)O Tribunal Superior Eleitoral (TSE) promove uma nova etapa de testes no sistema eletrônico de votação para as eleições de 2022. A ideia é ‘bombardear’ o sistema com o intuito de encontrar falhas e, assim, corrigi-las antes das eleições. Segundo o ministro Luiz Roberto Barroso, presidente do TSE, essa é a segunda parte dos testes. A primeira foi a abertura dos códigos-fonte das urnas. “Nós procurarmos aprimorar os sistemas mediante ataques de pessoas físicas e instituições, ‘hackers do bem’, que queiram tentar vulnerar as diferentes camadas de proteção do sistema. É uma parceria com a sociedade. Não é um confronto. Porque essas pessoas estão nos ajudando a melhorar o sistema. O teste público de segurança existe desde 2009 e, em quase todos eles, nós fomos capazes de aprimorar alguma coisa do sistema com a ajuda desses investigadores, como nós chamamos, que tentam vulnerar o sistema”, explicou Barroso.
+O teste vai durar até a próxima sexta-feira, 26. Até o momento, as urnas eletrônicas já passaram por seis intensivos ataques. De acordo com o TSE, o sistema de votação tem 100% de garantia e de eficácia. Luís Roberto Barroso afirma que o TSE está muito seguro quanto a possíveis ataques de grupos financiados para desmoralizar o sistema de votação no país, considerado o melhor do mundo. “Quanto aos canais e blogs e instrumentos de redes sociais de ataque às instituições, é um campo um pouco mais delicado. Nós temos muita preocupação de distinguir crítica de ataque, a liberdade de crítica é ampla e irrestrita, numa democracia ninguém está imune a críticas e qualquer pessoa pode não gostar do sistema, dizer que ele é muito ruim e querer outro. Isso é uma coisa. A outra coisa é ter grupos financiando ataques às instituições democráticas, visando a descredibilizá-las. Quanto a isso, e pode haver providências de natureza criminal, e houve recente por iniciativa do Tribunal Superior Eleitoral pela sua corregedoria um movimento muito importante que foi a desmonetização desses sites”, afirmou. Barroso lembrou também que a Justiça brasileira está atuante na fiscalização e punição de pessoas que propagam fake news. “Mentira, ódio, sensacionalismo gera muito mais engajamento do que um discurso razoável, um discurso racional. Portanto, isso gera incentivos ruins para as mídias sociais, porque se gera mais engajamento, gera mais visualizações, gera mais receita”, comentou.
+
+                    
+Leia também
+
+
+
+
+
+
+
+Defunto do voto impresso está enterrado em sepultura fechada no esquecimento
+
+
+
+
+
+
+
+Urnas eletrônicas passarão por testes de avaliação de segurança
+
+
+
+
+
+
+
+Bolsonaro promete acompanhar eleição em 2022 para evitar 'sacanagem'
+
+
+
+
+
+Em outubro, o TSE disponibilizou aos partidos políticos acesso total aos códigos-fonte das urnas eletrônicas. Somente o Partido Verde (PV) mostrou interesse de participar do sistema de segurança. O código-fonte da urna dá acesso aos componentes internos e externos do sistema de votação, como geração de mídias, votação, apuração, transmissão e recebimento de arquivos. O TSE pretende discutir com a comissão de transparência abrir o código fonte para toda a sociedade entender os detalhes minuciosos do processo de votação.
+*Com informações do repórter Maicon Mendes

@@ -1,0 +1,28 @@
+Relatório das Forças Armadas não aponta fraude nas urnas, mas diz que sistema não está isento de código malicioso
+Alan Santos/PR - 01/04/2022
+
+
+
+Paulo Sergio Nogueira enviou o relatório ao Tribunal Superior EleitoralO Ministério da Defesa enviou ao Tribunal Superior Eleitoral (TSE), nesta quarta-feira, 9, o seu relatório sobre a fiscalização do processo eleitoral brasileiro. No documento de 63 páginas, os militares dizem não ter encontrado nenhum indício de fraude nas eleições deste ano, mas indica, porém, que o sistema não está isento de um “eventual código malicioso que possa afetar seu funcionamento”. “Dos testes de funcionalidade, realizados por meio do Teste de Integridade e do Projeto-Piloto com Biometria, não é possível afirmar que o sistema eletrônico de votação está isento da influência de um eventual código malicioso que possa alterar o seu funcionamento”, diz um trecho do relatório. Ainda segundo a pasta, comandada pelo general Paulo Sérgio Nogueira, a análise dos boletins de urnas (BUs) não identificou divergências em relação aos números do TSE. Apesar disso, os militares apontam duas sugestões de melhorias para os próximos pleitos, relacionados à compilação do código-fonte e dos códigos binários que foram executados nas urnas.
+“Em consequência, solicito à Corte Eleitoral atender ao sugerido pelos técnicos militares no sentido de: realizar uma investigação técnica para melhor conhecimento do ocorrido na compilação do código-fonte e de seus possíveis efeitos; e promover a análise minuciosa dos códigos binários que efetivamente foram executados nas urnas eletrônicas”, escreveu Nogueira.
+No documento, o ministro da Defesa diz, ainda, que os militares não tinham o objetivo de investigar uma eventual fraude no processo eleitoral brasileiro. “Ressalta-se que o trabalho da EFASEV (equipe de fiscalização das Forças Armadas) se restringiu à fiscalização do Sistema Eletrônico de Votação, não compreendendo outras atividades, como, por exemplo, a manifestação acerca de eventuais indícios de crimes eleitorais”, resumiu. O comandante das Forças Armadas sugeriu a criação de uma comissão de técnicos de instituições da sociedade para atuar na investigação do funcionamento dos equipamentos.
+O texto cita, também, dificuldades para realizar o trabalho de fiscalização. “Foram autorizadas somente análises estatísticas, ou seja, foi impossibilitada a execução dos códigos-fonte, fato que teve por consequência a não compreensão da sequência de execução de cada parte do sistema, bem como do funcionamento do sistema como um todo”. Minutos após a divulgação do relatório, o presidente do TSE, ministro Alexandre de Moraes, publicou uma nota na qual ressalta que, “assim como todas as demais entidades fiscalizadoras”, o relatório das Forças Armadas “não apontou a existência de nenhuma fraude ou inconsistência nas urnas eletrônicas e no processo eleitoral de 2022”. O magistrado acrescentou que “as sugestões encaminhadas para aperfeiçoamento do sistema serão oportunamente analisadas”. “O TSE reafirma que as urnas eletrônicas são motivo de orgulho nacional, e as eleições de 2022 comprovam a eficácia, a lisura e a total transparência da apuração e da totalização dos votos”, afirmou Moraes.
+
+                    
+Leia também
+
+
+
+
+
+
+
+Lula critica manifestações pelo país: 'Não têm pé nem cabeça'
+
+
+
+
+
+
+
+Deputados apresentam projeto para retirar poder do TSE de suspender contas em redes sociais

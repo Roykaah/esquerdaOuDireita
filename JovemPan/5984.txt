@@ -1,0 +1,38 @@
+Urnas eletrônicas passarão por testes de avaliação de segurança
+Lucas Lacaz Ruiz/Estadão Conteúdo - 04/11/2020
+
+
+
+Inspeção dos códigos-fonte deve durar duas semanas, em preparação para o Teste Público de Segurança do Sistema Eletrônico de VotaçãoO Tribunal Superior Eleitoral (TSE) abriu a etapa de inspeção dos códigos-fonte das urnas eletrônicas para a eleição de 2022. Essa fase vai durar duas semanas e faz parte dos preparativos para o Teste Público de Segurança do Sistema Eletrônico de Votação, que vai ocorrer em novembro. Ao todo, 39 especialistas, também chamados de investigadores, se inscreveram para atuar na inspeção dos códigos-fonte. Entre as atividades que eles vão desempenhar está a elaboração de um plano de ataque às urnas eletrônicas. Esse teste de ofensiva deve ser enviado ao TSE até próximo dia 25. Em novembro, os mesmos investigadores retornarão à Justiça Eleitoral para executar o plano e tentar encontrar nas urnas alguma vulnerabilidade a ser corrigida. De acordo com José de Melo Cruz, coordenador de sistemas eleitorais do TSE, essa etapa servirá para mostrar os pontos de melhoria e aperfeiçoamento. Ele também reforça a segurança das urnas e nega que o sistema eletrônico permita alguma alteração no resultado eleitoral. Para ele, se alguma fraude acontecesse, seria facilmente descoberta. O TSE afirma que os testes garantem à sociedade a legitimidade das urnas e a eficiência do sistema eleitoral brasileiro.
+
+Leia também
+
+
+
+
+
+
+
+Bolsonaro promete acompanhar eleição em 2022 para evitar 'sacanagem'
+
+
+
+
+
+
+
+Câmara aprova volta de propaganda partidária gratuita em TV e rádio
+
+
+
+
+
+
+
+PF pede ao STF prorrogação de investigação contra Bolsonaro por suposto vazamento de ‘dados sigilosos’
+
+
+
+
+
+*Com informações do repórter Daniel Lian

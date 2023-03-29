@@ -1,0 +1,7 @@
+TSE conclui testes com hackers e não encontra falhas no sistema eleitoral
+Nelson Jr./ ASICS/ TSE
+
+
+
+TSE realizou teste de confirmação nas urnas nesta semanaO Tribunal Superior Eleitoral (TSE) informou nesta sexta-feira, 13, que os testes no sistema de votação não encontraram falhas que possam prejudicar as eleições deste ano. Investigadores, incluindo peritos da Polícia Federal, repetiram as simulações de ataques hackers realizadas em novembro de 2021, no último Teste Público de Segurança (TPS) promovido pelo tribunal. Na ocasião, os especialistas encontraram vulnerabilidades e sugeriram medidas para aumentar a segurança do processo. O então presidente do TSE, Luís Roberto Barroso, afirmou que as falhas não permitiam acesso às urnas eletrônicas ou apuração de votos. Os investigadores voltaram ao tribunal nesta semana para repetir os testes e verificar as melhorias.
+Segundo o TSE, nenhuma das investidas conseguiu ultrapassar os reforços na segurança do sistema. “Nenhum dos planos de teste conseguiu alterar um voto ou mexer na totalização de votos”, disse o juiz auxiliar da presidência do TSE, Sandro Vieira. “O balanço que eu faço é positivo. Os planos de ataques que foram bem sucedidos em novembro tiveram melhorias implementadas pelo TSE que foram satisfatórias. Foram resolvidos os problemas encontrados pelos investigadores na primeira fase”, acrescentou. A Corte também informou, nesta sexta, que vai recomendar que os mesários façam inspeções rotineiras na cabine de votação para verificar as urnas no dia da eleição.

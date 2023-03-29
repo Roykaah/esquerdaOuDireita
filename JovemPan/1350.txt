@@ -1,0 +1,24 @@
+Relatório das Forças Armadas não exclui possibilidade de fraude, diz Ministério da Defesa
+BillyBoss/ Câmara dos Deputados
+
+
+
+Paulo Sérgio Nogueira é atual chefe do Ministério da Defesa do governo BolsonaroUm dia após ser divulgado o relatório de fiscalização do processo eleitoral brasileiro elaborado pelo Ministério da Defesa, a pasta emitiu uma nota nesta quinta-feira, 10, para ressaltar que o trabalho executado pelos técnicos militares – onde foi informado ao Tribunal Superior Eleitoral (TSE) que nenhum indício de fraude nas eleições foi encontrado – não exclui a “possibilidade da existência de fraude ou inconsistência nas urnas eletrônicas e no processo eleitoral de 2022”. De acordo com a Defesa, há possíveis riscos na segurança dos programas eletrônicos instalados nas urnas eletrônicas, já que os itens se conectam aos computadores do TSE durante a compilação do código-fonte, os testes de funcionalidade não foram o suficiente para extinguir a possibilidade de um código malicioso alterar o funcionamento do sistema de votação, além das restrições impostas ao acesso adequado dos técnicos militares ao código-fonte e às bibliotecas de software. “Em consequência dessas constatações e de outros óbices elencados no relatório, não é possível assegurar que os programas que foram executados nas urnas eletrônicas estão livres de inserções maliciosas que alterem o seu funcionamento”, declara o Ministério. Por fim, a pasta manifesta seu desejo de que seja realizado, com urgência, uma investigação técnica com uma análise “minuciosa” na compilação do código-fonte.
+
+Leia também
+
+
+
+
+
+
+
+Bolsonaro nomeia André Ramos Tavares como novo ministro do TSE
+
+
+
+
+
+
+
+Relatório das Forças Armadas não aponta fraude nas urnas, mas diz que sistema não está isento de código malicioso

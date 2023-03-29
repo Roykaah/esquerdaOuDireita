@@ -1,0 +1,32 @@
+TSE garante segurança das urnas após testes, mas fala em ‘ajustes’ em sistema de votação
+WALLACEMARTINS/FUTURA PRESS/ESTADÃO CONTEÚDO
+
+
+
+Presidente do Tribunal Superior Eleitoral, ministro Luiz Roberto BarrosoO Tribunal Superior Eleitoral (TSE) admite que serão necessários ajustes no processo de votação depois que testes de segurança realizados no sistema eletrônico conseguiram ultrapassar barreiras importantes, oferecendo riscos ao processo como um todo. O presidente do TSE, o ministro Luiz Roberto Barroso, no entanto, garante que em nenhum momento foi possível alterar o resultado das urnas eletrônicas. Em quase uma semana de testes foram realizados 29 ataques dos chamados ‘hackers do bem’. Desse total, apenas cinco foram concluídos com achados considerados relevantes. O ataque mais bem sucedido foi realizado por peritos da Polícia Federal (PF) e conseguiu entrar na rede do tribunal. Segundo Barroso, no entanto, sem maiores repercussões. “Ninguém conseguiu invadir o sistema e oferecer risco para o resultado das eleições. Mais que isso, e para nossa tranquilidade, nenhum dos ataques conseguiu afetar, ser bem sucedido, relativamente ao software da urna. O software da urna é o programa operacional da urna”, afirmou. Por conta disso, Barroso voltou a defender a segurança do processo e explicou que o tribunal abriu os chamados códigos-fonte, o que não aconteceria numa situação normal de ataques, e, mesmo assim, o sistema se manteve seguro.
+Em um dos ataques com resultado positivo, para entrar no sistema foi necessário ter contato com a urna eletrônica e acoplar um painel falso sobre o painel do equipamento, o que conseguiria ler os votos que foram depositados. Para garantir total segurança ao processo, esses testes serão repetidos em maio para checar se a segurança do tribunal é capaz de barrar novas tentativas. Apesar de Barroso afirmar que os resultados não apontam riscos para o processo como um todo ressalta que os resultados serão cuidadosamente analisados. “Nós utilizamos esse teste público de segurança em todas as eleições como mecanismo de aprimoramento das defesas, porque a cada ano os ataques se tornam mais sofisticados, porém a cada ano nossas defesas também são aprimoradas justamente por esses ataques que nós convocamos técnicos para realizar”, explicou.
+O ministro lembrou que a urna eletrônica nunca entra em rede e que o que vale é o relatório do equipamento que é impresso logo depois do fim da votação. Qualquer divergência entre os valores informados consegue ser rapidamente descoberta. O secretário de tecnologia de informação TSE, Júlio Valente, também garantiu que o resultado dos testes apresenta uma certa vulnerabilidade do sistema que não tem, no entanto, o poder de mudar o voto do eleitor. “Existem outras camadas de segurança que, mesmo tendo eles conseguido entrar na rede de dados eleitoral, eles não conseguem alterar os resultados. Efetivamente, existem outras camadas de segurança que impedem essa possível alteração”, pontuou. Segundo o TSE nos anos anteriores sempre foi possível entre o teste público de segurança e o teste público de confirmação que vai acontecer em maio aprimorar o sistema de modo a neutralizar qualquer tipo de ataque.
+
+Leia também
+
+
+
+
+
+
+
+Barroso apresenta resultados de teste de segurança das urnas nesta terça
+
+
+
+
+
+
+
+TSE promove nova etapa de testes para garantir segurança das urnas eletrônicas em 2022
+
+
+
+
+
+*Com informações da repórter Luciana Verdolin

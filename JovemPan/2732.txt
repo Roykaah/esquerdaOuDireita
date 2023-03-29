@@ -1,0 +1,36 @@
+TSE amplia prazo para inspeção de código-fonte das urnas eletrônicas e autoriza inclusão de militares para análise
+Fernando Frazão/Agência Brasil
+
+
+
+Tribunal informou que não há acordo com as Forças Armadas para contagem paralela dos votosO Tribunal Superior Eleitoral (TSE) aprovou uma medida que amplia o prazo de inspeção do código-fonte das urnas eletrônicas, bem como da inclusão de outros nove militares que participarão do processo de averiguação dos itens eleitorais. A ação atente a uma solicitação do Ministério da Defesa, que havia solicitado a inclusão dos outros oficiais para que estes integrem a sala de inspeção dos códigos-fontes, prevista para ocorrer somente entre os dias 2 e 12 de agosto, e de todo o sistema eletrônico de votação. A pasta ressaltou em seu pedido que os profissionais em questão são especialistas no conhecimento de linguagens de programação C++ e Java, necessários para a inspeção. Com a liberação do presidente da Corte, Luiz Edson Fachin, os militares terão acesso ao código até o dia 19 de agosto. “Renovo o reconhecimento deste Tribunal, não apenas pela contribuição das Forças Armadas no âmbito da Comissão da Transparência Eleitoral (CTE), mas sobretudo pelo valioso suporte operacional e logístico prestado por elas em todas as últimas eleições”, destacou Fachin no ofício o qual a equipe de reportagem da Jovem Pan teve acesso que permitiu a integração de militares adicionais.
+Confira abaixo a lista de oficiais que participarão do processo de inspeção do código-fonte das urnas eletrônicas:
+
+major Diego Bonato Langer (Força Aérea);
+capitão Davison Silva Santos (Força Aérea);
+primeiro-tenente Fernando Mascagna Bittencourt Lima (Marinha);
+primeiro-tenente Rafael Coffi Tonon (Marinha);
+primeiro-tenente Gabriel Heleno Gonçalves da Silva (Marinha);
+primeiro-tenente Lincoln de Queiroz Vieira (Exército);
+primeiro-tenente Gabriel Bozza (Exército);
+primeiro-tenente Yuri Rodrigues Fialho (Exército);
+primeiro-sargento David de Souza França (Força Aérea).
+
+
+Leia também
+
+
+
+
+
+
+
+Bolsonaro promulga tratado da ONU sobre comércio de armas
+
+
+
+
+
+
+
+Ministério Público Eleitoral pede para TSE rejeitar ação contra Bolsonaro por discurso de ódio

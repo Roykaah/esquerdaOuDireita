@@ -1,0 +1,24 @@
+PGR concorda com pedido para o Google informar quem pesquisou nome ‘Marielle’ dias antes do crime
+DIDA SAMPAIO/ESTADÃO CONTEÚDO
+
+
+
+Procurador-geral diz que "mostra-se compatível com a Constituição Federal a possibilidade de afastamento de dados telemáticos"O procurador-geral da República, Augusto Aras, concordou em parecer encaminhado ao Supremo Tribunal Federal (STF) a divulgação de dados de usuários que pesquisaram termos ou combinações de palavras relacionadas à vereadora Marielle Franco entre os dias 7 e 14 de março de 2018, data em que a parlamentar e do motorista Anderson Gomes foram assassinados. Na manifestação, encaminhada em outubro de 2021 à Suprema Corte, o procurador-geral diz que “mostra-se compatível com a Constituição Federal a possibilidade de afastamento de dados telemáticos, no âmbito de procedimentos penais, ainda que em relação a pessoas indeterminadas”, ou seja, abrange a constitucionalidade da quebra de sigilo de dados telemáticos de pessoas indeterminadas em investigações criminais. O parecer foi encaminhado após o Google apresentar recurso contra uma decisão do Superior Tribunal de Justiça (STJ), que manteve a determinação Justiça do Rio de Janeiro para que a empresa de tecnologia forneça aos investigadores dados que identifiquem os usuários. A ordem judicial estabeleceu que “IPs ou Device IDs que tenham utilizado o Google Busca no período compreendido entre o dia 10/03/2018 a 14/03/2018 para realizar consultas dos seguintes parâmetros: ‘Marielle Franco’; ‘Vereadora Marielle’; ‘Agenda Vereadora Marielle; ‘Casa das Pretas’; ‘Rua dos Inválidos, 122’ ou ‘Rua dos Inválidos’” devem ser compartilhados. O pedido da Justiça do Rio de Janeiro, ancorado pelo STJ, atendeu a pedido da Polícia Civil e do Ministério Público do Rio de Janeiro. Para os investigadores, as informações são consideradas essenciais para determinar os mandates do crime, uma vez que o cruzamento dos dados de IP e ID permitem a localização de pessoas. No parecer encaminhado ao Supremo Tribunal Federal, Augusto Aras também recomenda a devolução do processo para a Justiça do Rio para nova apreciação, considerados a sistemática da repercussão geral e os efeitos do julgamento deste recurso em relação aos demais casos que tratem ou venham a tratar do mesmo”. Com isso, um novo pedido de acesso aos dados pode ser feito pela Justiça. Na contramão das decisões, o Google argumenta que a determinação contraria a “proteção constitucional conferida à privacidade e aos dados pessoais”, uma vez que envolve genéricos e não individualizados. “Google reafirma o compromisso com a privacidade dos brasileiros”, disse a empresa em nota, após derrota no STJ. Além do Google, empresas como a Meta, responsável pelo Facebook e Instagram, também se manifestou contrário ao acesso das informações. Um dos argumentos é que o acesso genérico poderia “carretar o acesso a dados de indivíduos com foro por prerrogativa de função ou, ainda, menores de idade, cuja tutela se dá exclusivamente pelas varas da infância e da juventude”.
+
+Leia também
+
+
+
+
+
+
+
+'Ninguém melhor para conduzir as eleições de modo firme e imparcial’, diz Mauro Campbell sobre Moraes
+
+
+
+
+
+
+
+Aras publica vídeo antigo em que minimiza judicialização das eleições: 'Quem ganhar vai tomar posse'

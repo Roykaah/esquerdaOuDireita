@@ -1,0 +1,28 @@
+Saiba como funciona as novas urnas das Eleições 2022
+Tiago Hardman/Futura Press/Estadão Conteúdo
+
+
+
+na foto urna de 2009, que estão sendo trocadas pelas de 2020.Para as eleições de 2022, o país recebeu 224.999 mil novos modelos de urnas, que vão se misturar aos antigos, de 2009, que elegeram o presidente Jair Bolsonaro, em 2018. Ao todo, entre novas e velhas, serão disponibilizadas para os brasileiros 577 mil urnas. A cada década, elas são substituídas, por exemplares mais modernos, compatíveis ao desenvolvimento tecnológico da época. “Mas a troca acontece de forma gradativa, para não onerar os cofres públicos, porque são muitas”, diz Rafael Azevedo, coordenador de tecnologia do TSE (Tribunal Superior Eleitoral). Segundo ele, quem der a sorte de pegar as mais recentes, de 2020, vai votar com um processador 18 vezes mais veloz e com painel sensível ao toque.
+As urnas eletrônicas surgiram em 1996, como um sistema muito desejado, que veio dar mais segurança ao sistema eleitoral. Na época contou com o apoio do Instituto Nacional de Pesquisas Especiais e o Centro Técnico Aeroespacial. Batizado de Coletor Eletrônico de Votos (CEV), o projeto tinha como objetivo eliminar a intervenção humana no sistema de apuração e totalização dos resultados para garantir mais segurança a transparência no processo. Antes, a votação dava-se através de cédulas de papeis, que tinham apuração demorada, mais suscetíveis a erros e a fraudes. A votação eletrônica vem sendo aprimorada, de acordo com os avanços tecnológicos, conciliando performance e segurança.
+Enquanto as eleições não chegam – estamos a três meses do processo eleitoral –, as urnas estão sendo testadas por uma equipe de engenheiros da Escola Politécnica da Universidade de São Paulo (Poli-USP), cuja missão é quebrar o sistema de proteção das máquinas. “Estamos tentando encontrar brechas para entrar nesse sistema. Todo ponto levantado como uma fragilidade, nós exploramos, seja apresentado por relatórios antigos ou novos”, diz Marcos Simplício, professor de engenharia de computação da Poli. Até agora, todas suspeitas foram por terra. “Isso não quer dizer que o sistema seja 100% inviolável.” O TSE também ofereceu passagens e estadia a hackers que quisessem aceitar o desafio de entrar no sistema. Até agora ninguém conseguiu.
+As urnas possuem vários sistemas de proteção. As maiores críticas, no que tange a segurança, se referem a um sistema de identificação de aviso de violação. “Imagine que na sua casa não haja um alarme de incêndio. Caso não seja providenciado, isso não quer dizer que ela vá pegar fogo”, diz Simplício ao fazer uma analogia entre o alarme de incêndio e um de violação de sistema eletrônico.
+“As urnas eletrônicas não estão conectadas por um sistema internet. Elas são independentes”, explica Azevedo. Quando a eleição acaba, o fechamento do sistema produz um relatório de papel para o colégio eleitoral e a mídia segue para o TSE. “Por isso antes mesmo dos resultados oficiais saírem tem partido comemorando antecipadamente”, diz Azevedo. “Eles somam os dados dos relatórios.” E sempre bate. Tem que bater.
+
+Leia também
+
+
+
+
+
+
+
+Bolsonaro critica Moraes por pedido de manifestação sobre discursos de ódio: 'Covardia'
+
+
+
+
+
+
+
+TSE divulga número recorde de eleitores aptos a votar em 2022

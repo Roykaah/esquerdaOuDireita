@@ -1,0 +1,8 @@
+TSE divulga respostas às Forças Armadas sobre as urnas eletrônicas
+MOURÃO PANDA/O FOTOGRÁFICO/ESTADÃO CONTEÚDO
+
+
+
+Segundo o Tribunal, 712 riscos foram registrados em quatro anos, sendo 257 deles classificados de nível alto e 68 críticoA Comissão de Transparência Eleitoral do Tribunal Superior Eleitoral (TSE) resolveu divulgar o documento com as respostas sobre o processo eleitoral enviado às Forças Armadas. Isso acontece após parte das perguntas serem vazadas. A decisão da divulgação aconteceu em acordo entre o presidente do TSE, Luís Roberto Barroso, e os futuros presidentes, Edson Fachin e Alexandre de Moraes. A justificativa é que as informações são de interesse público e não impactam na segurança cibernética da Justiça Eleitoral. O documento tem 69 páginas, sem contar os anexos. Ao todo, o TSE responde a 75 perguntas feitas pelas Forças Armadas. Os primeiros questionamentos são sobre o organograma dos responsáveis pelas estruturas de tecnologia da informação; plano de gestão de riscos e relatório de riscos dos últimos quatro anos. Segundo o Tribunal, 712 riscos foram registrados neste período, sendo 257 deles classificados de nível alto e 68 crítico. Na sequência, perguntas técnicas sobre auditoria, backup, versão dos sistemas, assim como segurança do software, são respondidas. O documento conclui que a arquitetura de segurança das urnas eletrônicas, combinadas com as exigências de cadeia de produção e demais avaliações, garantem que há segurança nas urnas, independentemente do fornecedor, componentes eletrônicos e da empresa contratada. O ministro Edson Fachin assume a presidência do TSE na próxima semana.
+
+*Com informações da repórter Carolina Abelin
